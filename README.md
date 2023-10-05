@@ -1,4 +1,4 @@
 # apanacollege-demo
 this is my first repository demo
 <br>
-Author:-Somanath okhande
+Author:-Somanath Lokhande
